@@ -85,7 +85,7 @@ If you go a blank page with write "Hello world" it's good you have setup your fi
 
 ## Summary
 
-What you have learned
+What you have learned:
 
 * Initialize a basic chrome extension
 * Run a chrome extension
