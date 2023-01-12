@@ -97,5 +97,4 @@ What you have learned:
 
 ## Next steps
 
-* [Part 2 - Getting Started](../2_Getting_started/README.md)
-
+* Now you can go to the next step doing a easy feature

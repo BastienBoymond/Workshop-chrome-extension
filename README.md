@@ -9,7 +9,11 @@ You'll need to install the following software on your computer:
 
 ## 🚀 Workshop instructions
 
-[Part 1 - Setup Chrome Extension](./1_setup/README.md)
-[Part 2 - Getting Started](./2_Getting_started/README.md)
-[Part 3 - Add a Chart of your grades](./3_Add_a_chart_of_your_grades/README.md)
+[Setup](1_setup/README.md)
+
+Once the setup is done, you can do different features:
+
+- [Easy Feature](2_easy_features/README.md)
+- [Medium Feature](3_medium_features/README.md)
+- [Hard Feature](4_hard_features/README.md)
 
