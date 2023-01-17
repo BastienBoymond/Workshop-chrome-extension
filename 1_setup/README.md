@@ -13,8 +13,8 @@ Make your chrome extension launchable
 manifest.json is the main file of your extension. It contains all the information about your extension.
 
 ```sh
-mkdir EpiStats
-cd EpiStats
+mkdir ChromeExtension
+cd ChromeExtension
 touch manifest.json
 ```
 
