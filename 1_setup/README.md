@@ -64,6 +64,8 @@ Link the js and the Chart.min.js file into the manifest.json
 Now to try it you will 
 go in the index.js and write
 
+([InnerHtml](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML) is a function that will allow you to write in the current page)
+
 ```
 document.body.innertHtml = "Hello world";
 ```
@@ -98,3 +100,10 @@ What you have learned:
 ## Next steps
 
 * Now you can go to the next step doing a easy feature
+
+### IMPORTANT
+
+The index.js file  is the file that will be injected in the current page when you click on the extension icon
+
+The popup folder is the folder that will be opened when you click on the extension icon
+

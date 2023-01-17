@@ -5,4 +5,3 @@ Here you will have a list of easy feature you can implement in your project and 
 - [Delete usefull elements in intranet](delete_usefull_elements_in_intranet.md)
 - [Add a button](add_a_button.md)
 - [Modify css](modify_css.md)
-- [Store Usefull Data in localStorage](store_usefull_data_in_localStorage.md)
