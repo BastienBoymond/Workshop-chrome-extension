@@ -1,4 +1,4 @@
-# Medium Features
+# Hard Features
 
 Here you will have a list of medium feature you can implement in your project and a way to do it.
 
