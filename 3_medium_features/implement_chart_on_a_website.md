@@ -42,6 +42,9 @@ function createChart() {
     document.getElementById("chartContainer").appendChild(canvas);
 
     canvas.id = "myChart";
+    
+    // create chart here
+    
 }
 
 setTimeout(() => {
