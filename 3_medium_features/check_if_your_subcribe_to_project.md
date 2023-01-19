@@ -6,7 +6,7 @@ The objective of this function is to check if you are subscribed to a important 
 For this you will use a function called [QuerrySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) and [QuerrySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll) that will allow you to select modules and projects in the page.
 after that you will check how many time you have to subscribe to a important projet/module and if you don't have such a time, you will display a message using [innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML) or [insertAdjacentHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML) that will allow you to add html in the page
 
-<img src="../imgs/important_module_project.png">
+<img src="../imgs/important_module_project.PNG">
 
 ### Here you got list of projects and modules you just have to check if you are subscribed to them and if the project/module was "important"
 
