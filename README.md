@@ -15,5 +15,4 @@ Once the setup is done, you can do different features:
 
 - [Easy Feature](2_easy_features/README.md)
 - [Medium Feature](3_medium_features/README.md)
-- [Hard Feature](4_hard_features/README.md)
 

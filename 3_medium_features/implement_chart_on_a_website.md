@@ -52,4 +52,13 @@ setTimeout(() => {
     createChart()
 }, 1000);
 
+<<<<<<< Updated upstream
 ```
+=======
+setTimeout(() => {
+    if (document.getElementsByClassName("calendar planner daysview")[0] === undefined) return;
+    createChart()
+}, 2000);
+
+```
+>>>>>>> Stashed changes
