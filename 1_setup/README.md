@@ -67,7 +67,7 @@ go in the index.js and write
 ([InnerHtml](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML) is a function that will allow you to write in the current page)
 
 ```
-document.body.innertHtml = "Hello world";
+document.body.innerHtml = "Hello world";
 ```
 
 After this you will load the extension for this
